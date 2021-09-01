@@ -1,15 +1,11 @@
 ## Summary
 	* Pass: 0
 	* Fail: 0
-	* Not executed: 2
+	* Not executed: 1
 	* Suspended: 0
-	* Total: 2
+	* Total: 1
 ## Details
 1. N/A
-	* N/A
-	* N/A
-	* Not executed
-2. N/A
 	* N/A
 	* N/A
 	* Not executed
