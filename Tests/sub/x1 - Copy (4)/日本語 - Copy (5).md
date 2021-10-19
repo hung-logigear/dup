@@ -3,7 +3,7 @@
 ## Test Script Location
 * https://github.com/hung-logigear/TestManagementSolution
 ## Test Case Name
-* hitsvqxmcgnmmjrewquq
+* dmvjizcaioeftgfpmwfj
 ## Test Case Description
 * Check if application is available on phone
 ## Pre-conditions
