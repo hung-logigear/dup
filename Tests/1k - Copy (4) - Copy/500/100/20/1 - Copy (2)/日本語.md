@@ -1,0 +1,29 @@
+## Test Case ID
+* 007
+## Test Script Location
+* https://github.com/hung-logigear/TestManagementSolution
+## Test Case Name
+* What is appear in test?
+## Test Case Description
+* No more conditions
+## Pre-conditions
+* N/A
+## Post-conditions
+* N/A
+## Date Tested (mm/dd/yy hh:mm:ss)
+* 12/12/22 12:09:59
+## Test Case Results (Pass / Fail / Not executed / Suspended)
+* Pass
+---
+## Test Steps
+1. Step 1
+	* Step Details
+		* N/A
+	* Test Data
+		* N/A
+	* Expected Results
+		* N/A
+	* Actual Results
+		* N/A
+	* Pass / Fail / Not executed / Suspended
+		* Pass
