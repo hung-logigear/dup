@@ -3,7 +3,7 @@
 ## Test Script Location
 * https://github.com/hung-logigear/TestManagementSolution
 ## Test Case Name
-* iefzhefszzxnnrbvvfku
+* eebugocwzybzdfuwdboj
 ## Test Case Description
 * Check if application is available on phone
 ## Pre-conditions
@@ -11,7 +11,7 @@
 ## Post-conditions
 * Restarttt done
 ## Date Tested (mm/dd/yy hh:mm:ss)
-* 12/12/22 12:27:59
+* 12/12/22 12:28:59
 ## Test Case Results (Pass / Fail / Not executed / Suspended)
 * Pass
 ---
